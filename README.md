@@ -1,6 +1,8 @@
 # 🗉 Projek Nota Transaksi Salon
 Projek dalam mata kuliah Pemrograman Berorientasi Objek dengan membuat nota transaksi dari pilihan layanan salon.
 ---
+![alt text](https://github.com/adventaa/Projek_Nota-Transaksi-Salon/blob/main/Class%20Diagram.png?raw=true)
+
 Terdapat 8 class: 
 - Class main (MainSalon)
 - Class Salon yang berisi atribut dari data salon, abstract class Customer (induk) yang berisi atribut dari data-data customer. 
